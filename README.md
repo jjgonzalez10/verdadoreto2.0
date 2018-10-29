@@ -25,7 +25,7 @@ Tecnologias usadas:
 -Mongo
 
 
-pagina del proyecto : 
+pagina del proyecto : https://vorweb.herokuapp.com/
 
 autores de la pagina : 
 
